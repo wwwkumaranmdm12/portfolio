@@ -36,7 +36,7 @@ const projects = [
       "My personal developer portfolio built using React and Framer Motion showcasing my skills, projects, education, certificates and contact information.",
     tech: ["React", "Framer Motion", "CSS"],
     github: "https://github.com/wwwkumaranmdm12/portfolio",
-    live: "portfolio-lyart-ten-8iswxn4mut.vercel.app",
+    live: "https://portfolio-lyart-ten-8iswxn4mut.vercel.app",
   },
 
   {
