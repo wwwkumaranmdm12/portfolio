@@ -35,7 +35,7 @@ const projects = [
     description:
       "My personal developer portfolio built using React and Framer Motion showcasing my skills, projects, education, certificates and contact information.",
     tech: ["React", "Framer Motion", "CSS"],
-    github: "https://github.com/YOUR_USERNAME/Portfolio",
+    github: "https://github.com/wwwkumaranmdm12/portfolio",
     live: "#",
   },
 
