@@ -1,0 +1,49 @@
+.education{
+    padding:120px 8%;
+    background:#0B1120;
+}
+
+.education h2{
+    text-align:center;
+    font-size:48px;
+    margin-bottom:60px;
+}
+
+.education-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+    gap:40px;
+}
+
+.edu-card{
+    background:#162032;
+    padding:35px;
+    border-radius:25px;
+    transition:.4s;
+    border:1px solid rgba(255,255,255,.05);
+}
+
+.edu-card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 0 30px rgba(124,58,237,.4);
+}
+
+.edu-icon{
+    font-size:55px;
+    color:#7C3AED;
+    margin-bottom:20px;
+}
+
+.edu-card h3{
+    margin-bottom:10px;
+}
+
+.edu-card h4{
+    color:#38BDF8;
+    margin-bottom:10px;
+}
+
+.edu-card p{
+    color:#CBD5E1;
+    line-height:28px;
+}

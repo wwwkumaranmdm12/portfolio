@@ -1,0 +1,157 @@
+.footer {
+  background: #0b1120;
+  padding: 70px 8% 35px;
+  border-top: 1px solid rgba(255,255,255,.08);
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.footer-logo {
+  font-size: 2.2rem;
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.footer-logo span {
+  color: #38bdf8;
+}
+
+.footer-text {
+  color: #94a3b8;
+  max-width: 650px;
+  margin: 0 auto 35px;
+  line-height: 1.8;
+  font-size: 15px;
+}
+
+.footer-social {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  margin-bottom: 35px;
+}
+
+.footer-social a {
+  width: 55px;
+  height: 55px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 50%;
+
+  background: rgba(255,255,255,.06);
+
+  color: white;
+
+  font-size: 22px;
+
+  text-decoration: none;
+
+  transition: .35s;
+}
+
+.footer-social a:hover {
+  background: linear-gradient(135deg,#06b6d4,#8b5cf6);
+  transform: translateY(-6px);
+  box-shadow: 0 12px 25px rgba(56,189,248,.35);
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 28px;
+
+  list-style: none;
+
+  margin-bottom: 40px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #cbd5e1;
+  font-weight: 500;
+  transition: .3s;
+}
+
+.footer-links a:hover {
+  color: #38bdf8;
+}
+
+.scroll-top {
+  width: 60px;
+  height: 60px;
+
+  margin: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 50%;
+
+  background: linear-gradient(135deg,#06b6d4,#8b5cf6);
+
+  color: white;
+
+  font-size: 20px;
+
+  text-decoration: none;
+
+  transition: .35s;
+}
+
+.scroll-top:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 35px rgba(56,189,248,.35);
+}
+
+.copyright {
+  margin-top: 35px;
+  color: #94a3b8;
+  font-size: 14px;
+  border-top: 1px solid rgba(255,255,255,.08);
+  padding-top: 25px;
+}
+
+@media (max-width:768px) {
+
+.footer{
+padding:60px 5% 30px;
+}
+
+.footer-logo{
+font-size:1.9rem;
+}
+
+.footer-links{
+gap:18px;
+}
+
+.footer-links a{
+font-size:14px;
+}
+
+.footer-social a{
+width:48px;
+height:48px;
+font-size:18px;
+}
+
+.scroll-top{
+width:52px;
+height:52px;
+}
+
+.copyright{
+font-size:13px;
+}
+
+}
