@@ -30,15 +30,15 @@ function Hero() {
             Kumaravel A
           </h1>
 
-          <h2>Passionate Software Engineer</h2>
+          <h2>Java Full Stack Developer | Fresher</h2>
 
           <p className="hero-description">
-           Passionate Software Engineer with strong knowledge of Java Full-Stack development. I enjoy building scalable, robust, and high-performance software applications with clean code, efficient problem-solving, and a great user experience.
+           I'm a B.Sc. Physics graduate and an aspiring Java Full Stack Developer with knowledge of Java, Spring Boot, MySQL, React.js, HTML, CSS, and JavaScript. I'm eager to start my software engineering career by building scalable applications, learning new technologies, and contributing to real-world projects.
            </p>
           <div className="hero-buttons">
 
             <a
-              href="https://drive.google.com/file/d/1bCEevpVLzfh2GE9U7xIiA_vSdKCRZsEG/view?usp=sharing"
+              href="https://drive.google.com/file/d/1z_xIcDir7QgsXQsFucsP1klBMC3wH90Q/view?usp=sharing"
               download
               className="btn-primary"
             >

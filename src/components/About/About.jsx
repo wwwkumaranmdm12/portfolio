@@ -17,11 +17,11 @@ function About() {
           <h4>ABOUT ME</h4>
 
           <h2>
-            Passionate <span> Software Engineer</span>
+            Aspiring <span> Software Engineer</span>
           </h2>
 
           <p>
-            I'm Kumaravel A, a Software Engineer passionate about building scalable, end-to-end software solutions. I specialize in Java and Spring Boot for backend development and React.js for creating interactive frontend interfaces. I thrive on writing clean, efficient code to solve complex real-world problems.
+            I'm Kumaravel A, a B.Sc. Physics graduate and a passionate Java Full Stack Developer fresher. I have built projects using Java, Spring Boot, React.js, MySQL, HTML, CSS, and JavaScript, which helped me strengthen my problem-solving and development skills. I'm looking for an opportunity to begin my career as a Software Engineer, where I can learn, grow, and contribute to building high-quality software solutions.
             </p>
 
           <div className="about-buttons">
@@ -41,20 +41,20 @@ function About() {
 
           <div className="about-card">
             <FaUserGraduate className="about-icon" />
-            <h3>Education</h3>
-            <p>B.Sc.,Physics  Graduate</p>
+            <h3>B.Sc. Physics Graduate</h3>
+            <p>2026 Graduate</p>
           </div>
 
           <div className="about-card">
             <FaLaptopCode className="about-icon" />
-            <h3>Technical Expertise</h3>
-            <p>Java, Spring Boot, React.js, SQL, Full-Stack Development</p>
+            <h3>Java Full Stack</h3>
+            <p>Fresher Developer</p>
           </div>
 
           <div className="about-card">
             <FaLightbulb className="about-icon" />
-            <h3>Goal</h3>
-            <p>Build Scalable Software Solutions</p>
+            <h3>Career Goal</h3>
+            <p>Software Engineer</p>
           </div>
 
         </motion.div>
