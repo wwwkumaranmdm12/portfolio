@@ -17,7 +17,7 @@ function About() {
           <h4>ABOUT ME</h4>
 
           <h2>
-            Aspiring <span> Software Engineer</span>
+            Aspiring <span> Software Developer </span>
           </h2>
 
           <p>
